@@ -1,0 +1,1103 @@
+# \# Hardware info — 12th Gen Intel Core i7-12700H
+
+\# Generated with: cat/proc/cpuinfo
+
+
+processor	: 0
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 648.764
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 0
+
+cpu cores	: 14
+
+apicid		: 0
+
+initial apicid	: 0
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 1
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 0
+
+cpu cores	: 14
+
+apicid		: 1
+
+initial apicid	: 1
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 2
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 587.804
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 4
+
+cpu cores	: 14
+
+apicid		: 8
+
+initial apicid	: 8
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 3
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 4
+
+cpu cores	: 14
+
+apicid		: 9
+
+initial apicid	: 9
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 4
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 759.257
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 8
+
+cpu cores	: 14
+
+apicid		: 16
+
+initial apicid	: 16
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 5
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 8
+
+cpu cores	: 14
+
+apicid		: 17
+
+initial apicid	: 17
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 6
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 941.498
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 12
+
+cpu cores	: 14
+
+apicid		: 24
+
+initial apicid	: 24
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 7
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 12
+
+cpu cores	: 14
+
+apicid		: 25
+
+initial apicid	: 25
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 8
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 799.691
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 16
+
+cpu cores	: 14
+
+apicid		: 32
+
+initial apicid	: 32
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 9
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 16
+
+cpu cores	: 14
+
+apicid		: 33
+
+initial apicid	: 33
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 10
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 621.454
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 20
+
+cpu cores	: 14
+
+apicid		: 40
+
+initial apicid	: 40
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 11
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 20
+
+cpu cores	: 14
+
+apicid		: 41
+
+initial apicid	: 41
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 12
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 743.316
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 24
+
+cpu cores	: 14
+
+apicid		: 48
+
+initial apicid	: 48
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 13
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 25
+
+cpu cores	: 14
+
+apicid		: 50
+
+initial apicid	: 50
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 14
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 506.116
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 26
+
+cpu cores	: 14
+
+apicid		: 52
+
+initial apicid	: 52
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 15
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 27
+
+cpu cores	: 14
+
+apicid		: 54
+
+initial apicid	: 54
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 16
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 466.568
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 28
+
+cpu cores	: 14
+
+apicid		: 56
+
+initial apicid	: 56
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 17
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 29
+
+cpu cores	: 14
+
+apicid		: 58
+
+initial apicid	: 58
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 18
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 400.000
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 30
+
+cpu cores	: 14
+
+apicid		: 60
+
+initial apicid	: 60
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
+
+
+processor	: 19
+
+vendor\_id	: GenuineIntel
+
+cpu family	: 6
+
+model		: 154
+
+model name	: 12th Gen Intel(R) Core(TM) i7-12700H
+
+stepping	: 3
+
+microcode	: 0x43b
+
+cpu MHz		: 757.309
+
+cache size	: 24576 KB
+
+physical id	: 0
+
+siblings	: 20
+
+core id		: 31
+
+cpu cores	: 14
+
+apicid		: 62
+
+initial apicid	: 62
+
+fpu		: yes
+
+fpu\_exception	: yes
+
+cpuid level	: 32
+
+wp		: yes
+
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant\_tsc art arch\_perfmon pebs bts rep\_good nopl xtopology nonstop\_tsc cpuid aperfmperf tsc\_known\_freq pni pclmulqdq dtes64 monitor ds\_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4\_1 sse4\_2 x2apic movbe popcnt tsc\_deadline\_timer aes xsave avx f16c rdrand lahf\_lm abm 3dnowprefetch cpuid\_fault epb cat\_l2 cdp\_l2 ssbd ibrs ibpb stibp ibrs\_enhanced tpr\_shadow flexpriority ept vpid ept\_ad fsgsbase tsc\_adjust bmi1 avx2 smep bmi2 erms invpcid rdt\_a rdseed adx smap clflushopt clwb intel\_pt sha\_ni xsaveopt xsavec xgetbv1 xsaves split\_lock\_detect user\_shstk avx\_vnni dtherm ida arat pln pts hwp hwp\_notify hwp\_act\_window hwp\_epp hwp\_pkg\_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md\_clear serialize arch\_lbr ibt flush\_l1d arch\_capabilities
+
+vmx flags	: vnmi preemption\_timer posted\_intr invvpid ept\_x\_only ept\_ad ept\_1gb flexpriority apicv tsc\_offset vtpr mtf vapic ept vpid unrestricted\_guest vapic\_reg vid ple shadow\_vmcs ept\_violation\_ve ept\_mode\_based\_exec tsc\_scaling usr\_wait\_pause
+
+bugs		: spectre\_v1 spectre\_v2 spec\_store\_bypass swapgs eibrs\_pbrsb rfds bhi spectre\_v2\_user vmscape
+
+bogomips	: 5376.00
+
+clflush size	: 64
+
+cache\_alignment	: 64
+
+address sizes	: 39 bits physical, 48 bits virtual
+
+power management:
