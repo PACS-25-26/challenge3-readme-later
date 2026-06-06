@@ -28,4 +28,4 @@ bash test/run_scalability.sh
 Results saved in `test/data/`.
 
 ## Results
-See [RESULT.md](RESULT.md).
+See [result.md](result.md).
